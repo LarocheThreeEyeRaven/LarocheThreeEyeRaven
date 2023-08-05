@@ -13,3 +13,6 @@
  ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LarocheThreeEyeRaven&theme=gotham)](https://git.io/streak-stats)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=LarocheThreeEyeRaven&layout=compact&theme=vision-friendly-dark
+
