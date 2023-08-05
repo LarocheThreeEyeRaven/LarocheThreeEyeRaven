@@ -10,6 +10,8 @@
 
  💐 Building Project and networking with other upcoming Dev out here are my goals.
 
+ ### :hammer_and_wrench: Languages and Tools :
+
  ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LarocheThreeEyeRaven&theme=gotham)](https://git.io/streak-stats)
