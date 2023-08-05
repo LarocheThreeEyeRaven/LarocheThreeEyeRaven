@@ -5,6 +5,7 @@
 
 
 <div id="badges">
+  <a href="oladelelaroche@gmail.com"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email&logoColor=white" alt="Email Badge"/> </a>
 <a href="https://twitter.com/NoBitchboyyyy?t=JuKx0TpvFMTO9CLDjk0SuQ&s=09"> <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> </a> 
 </div>
 
