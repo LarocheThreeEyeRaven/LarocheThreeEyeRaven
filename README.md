@@ -39,5 +39,9 @@ ___________________________________
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LarocheThreeEyeRaven&theme=gotham)](https://git.io/streak-stats)
 
+___________________________________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LarocheThreeEyeRaven&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
