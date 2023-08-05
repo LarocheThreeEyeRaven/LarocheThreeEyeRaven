@@ -11,4 +11,5 @@
  💐 Building Project and networking with other upcoming Dev out here are my goals.
 
  ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LarocheThreeEyeRaven)](https://git.io/streak-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LarocheThreeEyeRaven&theme=gotham)](https://git.io/streak-stats)
